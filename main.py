@@ -259,6 +259,8 @@ if __name__ == '__main__':
     # client id and secret for my application
     client_id = 'id'
     client_secret = 'secret'
+    # client_id = 'fc98104e463340b09feff3b4f02663ac'
+    # client_secret = '1d71b4c3afb44673a41dbf282b9eb4f5'
 
     scope = 'user-library-read'
 
