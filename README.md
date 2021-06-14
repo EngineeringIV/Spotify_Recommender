@@ -39,8 +39,8 @@ Finally, I calculated the cosine similarity between the playlist summarized vect
 
 ## Analysis Results
 After running the recommendation engine on my Kpop playlist, the following result were generated. As you can see, the recommendation successfully recommended other songs by BlackPink
-(Bet You Wanna, Love To Hate Me, Sour Candy) and some popular songs from other K-pop group such as Twice (I CAN'T STOP ME, Why Not?), Red Relvet (Monster), Tomorrow x Tomorrow (Blue Hour),
-Mamamoo (Dingga, AYA), GFriend (MAGO), Everglow(LA DI DA) and some interesting American pop songs especially by Billie Eilish.
+(Bet You Wanna, Crazy Over You Love To Hate Me, Sour Candy, You Never Know, Forever Young, Really, DDU-DU DDU-DU, See U Later, Kill This Love, Don't Know What To Do, As If It's your Last) and some popular songs from other K-pop group such as Twice (More & More, Yes Or Yes, Dance The Night Away, What is Love, Feel Special, I CAN'T STOP ME, Why Not?), 
+Mamamoo (Dingga, AYA, Egotistic, Hip, Gogobebe), GFriend (MAGO), Everglow(LA DI DA, Bon Bon Chocolat, Adios), Momoland (Boom Boom), and Loona (Hi High). All 30 songs recommended are indeed K-pop song!
 ![Image of result](https://github.com/EngineeringIV/Spotify_Recommender/blob/main/Figure_1.png)
 
 
