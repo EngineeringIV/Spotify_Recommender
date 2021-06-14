@@ -43,3 +43,8 @@ After running the recommendation engine on my Kpop playlist, the following resul
 Mamamoo (Dingga, AYA), GFriend (MAGO), Everglow(LA DI DA) and some interesting American pop songs especially by Billie Eilish.
 ![Image of result](https://github.com/EngineeringIV/Spotify_Recommender/blob/main/Figure_1.png)
 
+
+## Credit and Acknowledgement
+This project follows the wonderful [tutorial](https://www.youtube.com/watch?v=tooddaC14q4) by [Madhav Thaker](https://www.youtube.com/channel/UC0-S_HnWTDFaXgTbYSL46Ug). 
+It also uses [Spotipy](https://spotipy.readthedocs.io/en/2.16.1/), [Spotify for Developers](https://developer.spotify.com/), and [Kaggle Spotify Database](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks). Lastly, many thanks to [Spotify](https://www.spotify.com/us/home/) for creating a wonderful recommendation engine to recommend great songs and also creating a great tool and API for developers. 
+
