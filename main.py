@@ -21,8 +21,7 @@ import spotipy.util as util
 import warnings
 warnings.filterwarnings("ignore")
 
-spotify_df = pd.read_csv('data_o.csv')
-data_w_genre = pd.read_csv('data_by_artist_o.csv')
+
 
 
 # Create OHE features
@@ -211,6 +210,9 @@ if __name__ == '__main__':
     ####################################
     #Data Cleaning
     ####################################
+    spotify_df = pd.read_csv('data_o.csv')
+    data_w_genre = pd.read_csv('data_by_artist_o.csv')
+    
     data_w_genre['genres_upd'] = data_w_genre['genres'].apply(lambda x: [re.sub(' ','_',i) for i in re.findall(r"'([^']*)'", x)])
     spotify_df['artists_upd_v1'] = spotify_df['artists'].apply(lambda x: re.findall(r"'([^']*)'", x))
 
