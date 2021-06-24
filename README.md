@@ -1,7 +1,7 @@
 # Spotify_Recommender
 A recommendation engine to recommend K-pop songs based on Spotify Kpop playlist
 
- ## Analysis Motivation
+ ## Motivation
 I have to admit that I am a huge K-pop fan (don't judge). There are thousands of K-pop songs that are released each year and it is difficult to keep track of every single of them. 
 Fortunately, streaming services like Spotify made it a lot easier to listen to similar songs based on your preference and the playlists you've created. In this project, I wanted 
 to take a crack of the Spotify recommendation engine and build a recommendation engine based on playlists I've created in my personal Spotify account. I've created a playlist
